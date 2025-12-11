@@ -67,7 +67,7 @@ senha = ''.join(random.choice(caracteres) for _ in range(tamanho))
 ## 📁 Estrutura sugerida
 
 ```
-📂 gerador-senhas/
+📂 gerador-senhas-python/
  ├── gerador_senhas.py
  ├── README.md
  └── docs/
