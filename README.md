@@ -26,11 +26,10 @@ O app inclui geração personalizada por tamanho e botão para copiar direto par
 
 ## 📸 Prévia da Interface
 
-> *(Adicione aqui sua captura de tela após gerar a imagem)*
-
-```
-![preview](docs/preview.png)
-```
+<p align="center">
+  <img src="docs/preview-1.png" width="400">
+  <img src="docs/preview-2.png" width="400">
+</p>
 
 ---
 
@@ -71,7 +70,8 @@ senha = ''.join(random.choice(caracteres) for _ in range(tamanho))
  ├── gerador_senhas.py
  ├── README.md
  └── docs/
-     └── preview.png
+     └── preview-1.png
+     └── preview-2.png
 ```
 
 ---
